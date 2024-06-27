@@ -32,3 +32,19 @@ int main()
     }
     return 0;
 }
+/*
+output will be like we gave the value of rows and colums 6
+ ***********
+  *********
+   *******
+    *****
+     ***
+      *
+      *
+     ***
+    *****
+   *******
+  *********
+ ***********
+*/
+    
