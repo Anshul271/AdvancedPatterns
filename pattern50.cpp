@@ -33,3 +33,13 @@ cout<<" ";
     cout<<"*";
     }
 }
+/*
+output will look like -
+	enter the number 6
+    *     *
+   **    **
+  ***   ***
+ ****  ****
+***** *****
+***********
+	*/
