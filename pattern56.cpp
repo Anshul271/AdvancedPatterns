@@ -57,3 +57,13 @@ int main()
     cout << " * " << endl;
     // cout << " * " << endl;
 }
+/*
+output for this file will look like for input n=3
+*
+   *
+ *
+   *
+ *
+   *
+ *
+*/
